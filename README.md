@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abolfazl-11
-- 👀 I’m interested in coding , 3d design , photoshop , game development and ...
-- 🌱 I’m currently learning unity and flutter
+- 👀 I’m interested in coding , 3d design , web development , game development and ...
+- 🌱 I’m currently learning unity and flutter and rust
 - 📫 you can reach my in github
 
 <!---
